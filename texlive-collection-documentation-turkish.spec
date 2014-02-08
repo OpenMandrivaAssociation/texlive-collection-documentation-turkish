@@ -7,7 +7,7 @@
 Name:		texlive-collection-documentation-turkish
 Epoch:		1
 Version:	20120224
-Release:	1
+Release:	2
 Summary:	Turkish documentation
 Group:		Publishing
 URL:		http://tug.org/texlive
